@@ -1,0 +1,17 @@
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.deps.json
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.runtimeconfig.json
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.pdb
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.csproj.AssemblyReference.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.AssemblyInfoInputs.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.AssemblyInfo.cs
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.csproj.CoreCompileInputs.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\refint\LSC.RestaurantTableBookingApp.Data.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.pdb
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.genruntimeconfig.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\ref\LSC.RestaurantTableBookingApp.Data.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.pdb
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Data\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.csproj.CopyComplete

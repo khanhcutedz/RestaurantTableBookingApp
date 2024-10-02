@@ -1,0 +1,11 @@
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.deps.json
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.pdb
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.AssemblyInfoInputs.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.AssemblyInfo.cs
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.csproj.CoreCompileInputs.cache
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\refint\LSC.RestaurantTableBookingApp.Core.dll
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.pdb
+C:\Project\RestaurantTableBookingApp\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Core\obj\Debug\net8.0\ref\LSC.RestaurantTableBookingApp.Core.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LSC.RestaurantTableBookingApp.API.props" />
+</Project>

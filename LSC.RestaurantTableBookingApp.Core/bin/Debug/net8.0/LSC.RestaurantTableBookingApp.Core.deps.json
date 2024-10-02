@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LSC.RestaurantTableBookingApp.Core/1.0.0": {
+        "runtime": {
+          "LSC.RestaurantTableBookingApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LSC.RestaurantTableBookingApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
