@@ -28,11 +28,19 @@ jobs:
       - name: dotnet publish
         run: dotnet publish -c Release -o ./myapp
 
+      - name: List files in the publish folder
+        run: ls ./myapp
+
+      - name: Compress published app into zip
+        run: |
+          mkdir -p ./deploy-package
+          zip -r ./deploy-package/myapp.zip ./myapp
+
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ./myapp
+          path: ./deploy-package/myapp.zip
 
   deploy:
     runs-on: windows-latest
@@ -40,18 +48,19 @@ jobs:
     environment:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    
+
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
         with:
           name: .net-app
-      
+
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'lsc-table-booking-app-api'
           slot-name: 'Production'
-          package: ./myapp
+          package: ./deploy-package/myapp.zip
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96239160140349AA80922A8D01702522 }}
+
